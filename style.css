@@ -1,0 +1,17 @@
+.image {
+  width: 15rem;
+  display: block;
+  margin: 5rem auto;
+}
+
+.koko {
+  background: rgb(182, 246, 157);
+}
+
+.brown {
+  background: rgb(103, 203, 243);
+}
+
+.semsemContainer {
+  color: red;
+}

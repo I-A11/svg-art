@@ -2,11 +2,11 @@ body {
   font-family: "Winner Sans Cond Regular";
 }
 
-.image {
-  width: 25rem;
-  /* display: block; */
+/* .image {
+  width: 15rem;
+  display: block;
   margin: 5rem auto;
-}
+} */
 
 .koko {
   background: rgb(182, 246, 157);
@@ -23,22 +23,24 @@ body {
 }
 
 .logo-container {
-  position: relative;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
-  /* background: red; */
+  /* position: relative; */
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 15rem;
 }
 
 .heading {
-  font-size: 3rem;
+  font-size: 2rem;
   letter-spacing: 0.75rem;
   font-weight: 600;
-  position: fixed;
-  top: 1rem;
-  left: 0;
-  margin: 5rem 0rem 3rem 2rem;
-  text-align: center;
+  margin: 1.5rem 0 0 1rem;
+  /* position: fixed; */
+  /* top: 1rem; */
+  /* left: 0; */
+  /* margin: 10rem 0rem 3rem 16rem; */
+  /* text-align: center; */
   color: #269540;
 }

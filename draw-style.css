@@ -1,0 +1,12 @@
+.container {
+  background: red;
+  height: 50rem;
+  width: 100%;
+  position: relative;
+}
+
+.section {
+  position: fixed;
+  right: 0;
+  top: 7rem;
+}
